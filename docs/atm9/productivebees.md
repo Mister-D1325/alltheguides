@@ -124,8 +124,11 @@ This one's the trickiest and most important; this trait can only be gotten from 
 
 While wearing a **Bee Nest Helmet** (a Diamond helmet with a Nest on top), if you get hit by a hostile mob, there is a **30% chance** of a Kamikaze Bee spawning. The difficult part? They're *TINY* and *FAST* so you need to have a setup inside an enclosed box, have a **Catcher** ready, or have good aim and cage them once they spawn.
 
-Get **4-5** of them then squeeze them. This should get you a **100% Very High** Productivity gene.
+???+ tip
+	The Mob Masher from Mob Grinding Utils will cause Kamikaze Bees to spawn when it damages a player, without the need for a hostile mob nearby. 
 
+Get **4-5** of them then squeeze them. This should get you a **100% Very High** Productivity gene.
+ 
 !!! warning "Kamikaze Bees can't breed with each other."
 
 Now, you need to put the gene in an easy-to-breed bee (via Honey Treat + Gene) and breed them, and once an offspring is born with the Very High gene use it to breed more bees of that type. With that, you basically have infinite, Very High Productivity genes.
